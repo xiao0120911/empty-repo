@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+!.env.production.example
+deploy/tls/
+.venv/
+AI4Science/
+发榜图片合集/
+*.log
+__pycache__/
+.pytest_cache/
+backend/.venv/
+backend/data/
+frontend/dist/
+frontend/node_modules/
